@@ -1,4 +1,5 @@
 ## Oii sou Armando Soares, apaixonado por programação e café!
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div align="center">
   <a href="https://github.com/armandosoaress">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandosoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,7 +21,7 @@
     <a href="https://www.instagram.com/armandosoares._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <!-- `git a` -->
         <a  href="https://www.linkedin.com/in/jos%C3%A9-armando-soares-chagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-       
+           <!-- `git a` -->
         <a href="https://api.whatsapp.com/send?phone=5588999722046&text=ol%C3%A1" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%34e14e5f?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
        
      
