@@ -1,22 +1,11 @@
-<head>
-     <!-- Compiled and minified CSS -->
+
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
-     <!-- Compiled and minified JavaScript -->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-             
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
 <body>
-
     <div class="row center">
         <div class="col s12"> ## Oii sou Armando Soares, apaixonado por programação e café! </div>
       </div>
-
-   
 <div class="row center">
         
     <div class="col s12 m12 l6 "><span class="flow-text">  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=armandosoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </span>
