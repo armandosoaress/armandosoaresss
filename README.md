@@ -22,7 +22,7 @@
   
   ##
 <div align="center"> 
-   <img align="center" alt="Rafa-pic" height="200" style="border-radius:100px;" src="https://i.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp">
+   <img align="center" alt="Rafa-pic" height="120" style="border-radius:100px;" src="https://i.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp">
   <a href="https://www.instagram.com/armandosoares._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <!-- `git a` -->
         <a  href="https://www.linkedin.com/in/jos%C3%A9-armando-soares-chagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
