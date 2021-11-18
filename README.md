@@ -1,4 +1,4 @@
-## Oii sou Armando Soares, apaixonado por programação e café!
+# Oii sou Armando Soares, apaixonado por programação e café!
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div align="center">
   <a href="https://github.com/armandosoaress">
@@ -12,11 +12,13 @@
         <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
         <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:100px;" src="https://i.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp">
 </div>
   
   ##
    ##
+  ##
 <div> 
     <a href="https://www.instagram.com/armandosoares._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <!-- `git a` -->
