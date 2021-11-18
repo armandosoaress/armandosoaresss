@@ -16,14 +16,13 @@
 </div>
   
   ##
- 
+   ##
 <div> 
     <a href="https://www.instagram.com/armandosoares._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <!-- `git a` -->
         <a  href="https://www.linkedin.com/in/jos%C3%A9-armando-soares-chagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
            <!-- `git a` -->
         <a href="https://api.whatsapp.com/send?phone=5588999722046&text=ol%C3%A1" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%34e14e5f?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-       
-     
+
   ![Snake animation](https://github.com/armandosoaress/armandosoaress/blob/output/github-contribution-grid-snake.svg)
  
