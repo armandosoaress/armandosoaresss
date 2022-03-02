@@ -1,4 +1,4 @@
-# Oii sou Armando Soares, apaixonado por programação e café!
+# Só um apaixonado por programação e café!
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div align="center">
   <a href="https://github.com/armandosoaress">
