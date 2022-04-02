@@ -1,1 +1,1 @@
-# Só um apaixonado por programação e café!
+# Só um apaixonado por programação e CAFÉ!
