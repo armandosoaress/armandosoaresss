@@ -1,2 +1,1 @@
-# Só um apaixonado por programação e CAFÉ!   
-kjin
+# Só um apaixonado por programação e CAFÉ!
